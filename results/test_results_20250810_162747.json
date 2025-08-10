@@ -1,0 +1,2438 @@
+[
+  {
+    "image_path": "images/chapleau_z19_20250810_151734.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 14,
+    "pools": [
+      {
+        "id": 9,
+        "bbox": [
+          77,
+          333,
+          27,
+          31
+        ],
+        "center": [
+          90,
+          348
+        ],
+        "area_pixels": 534.0,
+        "aspect_ratio": 0.8709677419354839,
+        "circularity": 0.7525999747539425,
+        "confidence": 1.0
+      },
+      {
+        "id": 13,
+        "bbox": [
+          241,
+          95,
+          28,
+          29
+        ],
+        "center": [
+          255,
+          109
+        ],
+        "area_pixels": 542.0,
+        "aspect_ratio": 0.9655172413793104,
+        "circularity": 0.7430555182210864,
+        "confidence": 1.0
+      },
+      {
+        "id": 0,
+        "bbox": [
+          0,
+          540,
+          18,
+          19
+        ],
+        "center": [
+          9,
+          549
+        ],
+        "area_pixels": 212.5,
+        "aspect_ratio": 0.9473684210526315,
+        "circularity": 0.5826542352238311,
+        "confidence": 0.8
+      },
+      {
+        "id": 2,
+        "bbox": [
+          335,
+          520,
+          25,
+          24
+        ],
+        "center": [
+          347,
+          532
+        ],
+        "area_pixels": 346.5,
+        "aspect_ratio": 1.0416666666666667,
+        "circularity": 0.6974689453242102,
+        "confidence": 0.8
+      },
+      {
+        "id": 3,
+        "bbox": [
+          403,
+          512,
+          20,
+          35
+        ],
+        "center": [
+          413,
+          529
+        ],
+        "area_pixels": 434.5,
+        "aspect_ratio": 0.5714285714285714,
+        "circularity": 0.6473364101989002,
+        "confidence": 0.8
+      },
+      {
+        "id": 4,
+        "bbox": [
+          377,
+          463,
+          19,
+          20
+        ],
+        "center": [
+          386,
+          473
+        ],
+        "area_pixels": 255.5,
+        "aspect_ratio": 0.95,
+        "circularity": 0.7711147542570488,
+        "confidence": 0.8
+      },
+      {
+        "id": 5,
+        "bbox": [
+          24,
+          447,
+          12,
+          17
+        ],
+        "center": [
+          30,
+          455
+        ],
+        "area_pixels": 111.5,
+        "aspect_ratio": 0.7058823529411765,
+        "circularity": 0.6512291082709732,
+        "confidence": 0.8
+      },
+      {
+        "id": 6,
+        "bbox": [
+          492,
+          427,
+          23,
+          22
+        ],
+        "center": [
+          503,
+          438
+        ],
+        "area_pixels": 345.0,
+        "aspect_ratio": 1.0454545454545454,
+        "circularity": 0.7356156272747323,
+        "confidence": 0.8
+      },
+      {
+        "id": 7,
+        "bbox": [
+          427,
+          402,
+          25,
+          27
+        ],
+        "center": [
+          439,
+          415
+        ],
+        "area_pixels": 478.5,
+        "aspect_ratio": 0.9259259259259259,
+        "circularity": 0.7879758451841672,
+        "confidence": 0.8
+      },
+      {
+        "id": 8,
+        "bbox": [
+          476,
+          367,
+          26,
+          27
+        ],
+        "center": [
+          489,
+          380
+        ],
+        "area_pixels": 499.0,
+        "aspect_ratio": 0.9629629629629629,
+        "circularity": 0.7811132103616137,
+        "confidence": 0.8
+      },
+      {
+        "id": 10,
+        "bbox": [
+          162,
+          256,
+          24,
+          28
+        ],
+        "center": [
+          174,
+          270
+        ],
+        "area_pixels": 481.0,
+        "aspect_ratio": 0.8571428571428571,
+        "circularity": 0.8092114783331881,
+        "confidence": 0.8
+      },
+      {
+        "id": 11,
+        "bbox": [
+          253,
+          162,
+          17,
+          21
+        ],
+        "center": [
+          261,
+          172
+        ],
+        "area_pixels": 235.0,
+        "aspect_ratio": 0.8095238095238095,
+        "circularity": 0.7819002600843742,
+        "confidence": 0.8
+      },
+      {
+        "id": 14,
+        "bbox": [
+          371,
+          37,
+          22,
+          25
+        ],
+        "center": [
+          382,
+          49
+        ],
+        "area_pixels": 254.0,
+        "aspect_ratio": 0.88,
+        "circularity": 0.5254244069509787,
+        "confidence": 0.8
+      },
+      {
+        "id": 15,
+        "bbox": [
+          321,
+          23,
+          24,
+          23
+        ],
+        "center": [
+          333,
+          34
+        ],
+        "area_pixels": 295.0,
+        "aspect_ratio": 1.0434782608695652,
+        "circularity": 0.4617803535942091,
+        "confidence": 0.8
+      }
+    ],
+    "algorithm": "opencv_hsv",
+    "success": true,
+    "processing_time": 0.13427495956420898
+  },
+  {
+    "image_path": "images/chapleau_z19_20250810_151734.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 16,
+    "pools": [
+      {
+        "id": 12,
+        "bbox": [
+          426,
+          400,
+          29,
+          30
+        ],
+        "center": [
+          440,
+          415
+        ],
+        "area_pixels": 645.5,
+        "perimeter": 99.98275566101074,
+        "aspect_ratio": 0.9666666666666667,
+        "circularity": 0.8114390536295446,
+        "extent": 0.7419540229885058,
+        "solidity": 0.9562962962962963,
+        "contour_regularity": 0.07400000000000001,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 13,
+        "bbox": [
+          474,
+          364,
+          30,
+          32
+        ],
+        "center": [
+          489,
+          380
+        ],
+        "area_pixels": 705.5,
+        "perimeter": 103.982754945755,
+        "aspect_ratio": 0.9375,
+        "circularity": 0.8199440958312726,
+        "extent": 0.7348958333333333,
+        "solidity": 0.9644565960355435,
+        "contour_regularity": 0.1125,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 16,
+        "bbox": [
+          160,
+          255,
+          27,
+          32
+        ],
+        "center": [
+          173,
+          271
+        ],
+        "area_pixels": 625.0,
+        "perimeter": 96.91168665885925,
+        "aspect_ratio": 0.84375,
+        "circularity": 0.836252784957361,
+        "extent": 0.7233796296296297,
+        "solidity": 0.9615384615384616,
+        "contour_regularity": 0.0925,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 23,
+        "bbox": [
+          237,
+          92,
+          34,
+          33
+        ],
+        "center": [
+          254,
+          108
+        ],
+        "area_pixels": 790.0,
+        "perimeter": 108.22539579868317,
+        "aspect_ratio": 1.0303030303030303,
+        "circularity": 0.8475758810449047,
+        "extent": 0.7040998217468806,
+        "solidity": 0.9628275441803779,
+        "contour_regularity": 0.095,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 2,
+        "bbox": [
+          443,
+          544,
+          39,
+          36
+        ],
+        "center": [
+          462,
+          562
+        ],
+        "area_pixels": 604.5,
+        "perimeter": 114.40915966033936,
+        "aspect_ratio": 1.0833333333333333,
+        "circularity": 0.5803427693417129,
+        "extent": 0.4305555555555556,
+        "solidity": 0.9193916349809886,
+        "contour_regularity": 0.1,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 6,
+        "bbox": [
+          402,
+          511,
+          25,
+          37
+        ],
+        "center": [
+          414,
+          529
+        ],
+        "area_pixels": 520.5,
+        "perimeter": 98.81118214130402,
+        "aspect_ratio": 0.6756756756756757,
+        "circularity": 0.6699130033256769,
+        "extent": 0.5627027027027027,
+        "solidity": 0.8844519966015293,
+        "contour_regularity": 0.08857142857142858,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 8,
+        "bbox": [
+          375,
+          466,
+          20,
+          17
+        ],
+        "center": [
+          385,
+          474
+        ],
+        "area_pixels": 224.0,
+        "perimeter": 59.94112455844879,
+        "aspect_ratio": 1.1764705882352942,
+        "circularity": 0.7834442714553604,
+        "extent": 0.6588235294117647,
+        "solidity": 0.9352818371607515,
+        "contour_regularity": 0.054000000000000006,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 10,
+        "bbox": [
+          489,
+          427,
+          27,
+          24
+        ],
+        "center": [
+          502,
+          439
+        ],
+        "area_pixels": 426.0,
+        "perimeter": 81.25483298301697,
+        "aspect_ratio": 1.125,
+        "circularity": 0.8108136645482427,
+        "extent": 0.6574074074074074,
+        "solidity": 0.9648924122310306,
+        "contour_regularity": 0.10285714285714287,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 14,
+        "bbox": [
+          70,
+          330,
+          39,
+          35
+        ],
+        "center": [
+          89,
+          347
+        ],
+        "area_pixels": 776.0,
+        "perimeter": 117.1959581375122,
+        "aspect_ratio": 1.1142857142857143,
+        "circularity": 0.7099803309758999,
+        "extent": 0.5684981684981685,
+        "solidity": 0.895040369088812,
+        "contour_regularity": 0.1,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 15,
+        "bbox": [
+          195,
+          275,
+          37,
+          32
+        ],
+        "center": [
+          213,
+          291
+        ],
+        "area_pixels": 590.5,
+        "perimeter": 103.7817440032959,
+        "aspect_ratio": 1.15625,
+        "circularity": 0.6889502100815178,
+        "extent": 0.4987331081081081,
+        "solidity": 0.93879173290938,
+        "contour_regularity": 0.14,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 19,
+        "bbox": [
+          317,
+          155,
+          38,
+          35
+        ],
+        "center": [
+          336,
+          172
+        ],
+        "area_pixels": 642.5,
+        "perimeter": 111.43859910964966,
+        "aspect_ratio": 1.0857142857142856,
+        "circularity": 0.6501472173935682,
+        "extent": 0.4830827067669173,
+        "solidity": 0.9132906894100924,
+        "contour_regularity": 0.14400000000000002,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 5,
+        "bbox": [
+          332,
+          524,
+          27,
+          21
+        ],
+        "center": [
+          345,
+          534
+        ],
+        "area_pixels": 330.0,
+        "perimeter": 74.0832599401474,
+        "aspect_ratio": 1.2857142857142858,
+        "circularity": 0.7555855339514016,
+        "extent": 0.582010582010582,
+        "solidity": 0.9496402877697842,
+        "contour_regularity": 0.0475,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 18,
+        "bbox": [
+          248,
+          159,
+          24,
+          26
+        ],
+        "center": [
+          260,
+          172
+        ],
+        "area_pixels": 354.5,
+        "perimeter": 75.1543276309967,
+        "aspect_ratio": 0.9230769230769231,
+        "circularity": 0.7887113962380131,
+        "extent": 0.5681089743589743,
+        "solidity": 0.9465954606141522,
+        "contour_regularity": 0.08285714285714287,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 22,
+        "bbox": [
+          126,
+          111,
+          37,
+          27
+        ],
+        "center": [
+          144,
+          124
+        ],
+        "area_pixels": 496.5,
+        "perimeter": 106.12488985061646,
+        "aspect_ratio": 1.3703703703703705,
+        "circularity": 0.5539806708726495,
+        "extent": 0.496996996996997,
+        "solidity": 0.8913824057450629,
+        "contour_regularity": 0.0925,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 27,
+        "bbox": [
+          363,
+          34,
+          30,
+          28
+        ],
+        "center": [
+          378,
+          48
+        ],
+        "area_pixels": 381.5,
+        "perimeter": 82.12488996982574,
+        "aspect_ratio": 1.0714285714285714,
+        "circularity": 0.7108120882275656,
+        "extent": 0.45416666666666666,
+        "solidity": 0.9896238651102465,
+        "contour_regularity": 0.04,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 28,
+        "bbox": [
+          312,
+          19,
+          37,
+          36
+        ],
+        "center": [
+          330,
+          37
+        ],
+        "area_pixels": 977.5,
+        "perimeter": 120.46803569793701,
+        "aspect_ratio": 1.0277777777777777,
+        "circularity": 0.8464142611627978,
+        "extent": 0.7338588588588588,
+        "solidity": 0.9687809712586719,
+        "contour_regularity": 0.1025,
+        "edge_penalty": 0.3,
+        "confidence": 0.4000000000000001
+      }
+    ],
+    "algorithm": "opencv_advanced",
+    "success": true,
+    "processing_time": 0.2514464855194092
+  },
+  {
+    "algorithm": "cnn_simple",
+    "image_path": "images/chapleau_z19_20250810_151734.jpg",
+    "pools": [
+      {
+        "bbox": [
+          200,
+          200,
+          400,
+          300
+        ],
+        "confidence": 1.0,
+        "type": "pool"
+      }
+    ],
+    "pools_detected": 1,
+    "confidence": 1.0,
+    "has_pool": true,
+    "processing_time": 8.842367172241211,
+    "success": true,
+    "raw_output": "=== Analyse de l'image: images/chapleau_z19_20250810_151734.jpg ===\nMod\u00e8le charg\u00e9 depuis pool_cnn_model.h5\nPiscine d\u00e9tect\u00e9e: Oui\nConfiance: 100.00%\nAppuyez sur une touche pour fermer la fen\u00eatre...\n"
+  },
+  {
+    "image_path": "images/beloeil_z19_20250810_151735.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 13,
+    "pools": [
+      {
+        "id": 4,
+        "bbox": [
+          553,
+          336,
+          29,
+          31
+        ],
+        "center": [
+          567,
+          351
+        ],
+        "area_pixels": 583.5,
+        "aspect_ratio": 0.9354838709677419,
+        "circularity": 0.6909927043316725,
+        "confidence": 1.0
+      },
+      {
+        "id": 5,
+        "bbox": [
+          59,
+          331,
+          28,
+          29
+        ],
+        "center": [
+          73,
+          345
+        ],
+        "area_pixels": 554.5,
+        "aspect_ratio": 0.9655172413793104,
+        "circularity": 0.771885234924576,
+        "confidence": 1.0
+      },
+      {
+        "id": 10,
+        "bbox": [
+          0,
+          295,
+          31,
+          33
+        ],
+        "center": [
+          15,
+          311
+        ],
+        "area_pixels": 752.5,
+        "aspect_ratio": 0.9393939393939394,
+        "circularity": 0.7768933535610227,
+        "confidence": 1.0
+      },
+      {
+        "id": 15,
+        "bbox": [
+          302,
+          91,
+          26,
+          30
+        ],
+        "center": [
+          315,
+          106
+        ],
+        "area_pixels": 527.0,
+        "aspect_ratio": 0.8666666666666667,
+        "circularity": 0.7952592493964983,
+        "confidence": 1.0
+      },
+      {
+        "id": 16,
+        "bbox": [
+          405,
+          82,
+          29,
+          30
+        ],
+        "center": [
+          419,
+          97
+        ],
+        "area_pixels": 614.5,
+        "aspect_ratio": 0.9666666666666667,
+        "circularity": 0.7931765889452271,
+        "confidence": 1.0
+      },
+      {
+        "id": 18,
+        "bbox": [
+          251,
+          20,
+          27,
+          29
+        ],
+        "center": [
+          264,
+          34
+        ],
+        "area_pixels": 501.0,
+        "aspect_ratio": 0.9310344827586207,
+        "circularity": 0.7699402974566563,
+        "confidence": 1.0
+      },
+      {
+        "id": 1,
+        "bbox": [
+          288,
+          525,
+          23,
+          27
+        ],
+        "center": [
+          299,
+          538
+        ],
+        "area_pixels": 442.0,
+        "aspect_ratio": 0.8518518518518519,
+        "circularity": 0.7377299636802384,
+        "confidence": 0.8
+      },
+      {
+        "id": 3,
+        "bbox": [
+          616,
+          403,
+          18,
+          19
+        ],
+        "center": [
+          625,
+          412
+        ],
+        "area_pixels": 218.5,
+        "aspect_ratio": 0.9473684210526315,
+        "circularity": 0.7212939923085431,
+        "confidence": 0.8
+      },
+      {
+        "id": 8,
+        "bbox": [
+          130,
+          304,
+          17,
+          16
+        ],
+        "center": [
+          138,
+          312
+        ],
+        "area_pixels": 116.5,
+        "aspect_ratio": 1.0625,
+        "circularity": 0.5405476772989761,
+        "confidence": 0.8
+      },
+      {
+        "id": 11,
+        "bbox": [
+          99,
+          258,
+          17,
+          21
+        ],
+        "center": [
+          107,
+          268
+        ],
+        "area_pixels": 223.5,
+        "aspect_ratio": 0.8095238095238095,
+        "circularity": 0.6674194048929093,
+        "confidence": 0.8
+      },
+      {
+        "id": 13,
+        "bbox": [
+          376,
+          154,
+          21,
+          23
+        ],
+        "center": [
+          386,
+          165
+        ],
+        "area_pixels": 345.0,
+        "aspect_ratio": 0.9130434782608695,
+        "circularity": 0.7754957170694304,
+        "confidence": 0.8
+      },
+      {
+        "id": 0,
+        "bbox": [
+          62,
+          565,
+          58,
+          23
+        ],
+        "center": [
+          91,
+          576
+        ],
+        "area_pixels": 554.5,
+        "aspect_ratio": 2.5217391304347827,
+        "circularity": 0.24270946454425146,
+        "confidence": 0.6
+      },
+      {
+        "id": 2,
+        "bbox": [
+          303,
+          435,
+          57,
+          25
+        ],
+        "center": [
+          331,
+          447
+        ],
+        "area_pixels": 429.5,
+        "aspect_ratio": 2.28,
+        "circularity": 0.14886662841392065,
+        "confidence": 0.4
+      }
+    ],
+    "algorithm": "opencv_hsv",
+    "success": true,
+    "processing_time": 0.00555109977722168
+  },
+  {
+    "image_path": "images/beloeil_z19_20250810_151735.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 12,
+    "pools": [
+      {
+        "id": 12,
+        "bbox": [
+          63,
+          369,
+          41,
+          44
+        ],
+        "center": [
+          83,
+          391
+        ],
+        "area_pixels": 1179.5,
+        "perimeter": 147.7817441225052,
+        "aspect_ratio": 0.9318181818181818,
+        "circularity": 0.6786818478663873,
+        "extent": 0.6538248337028825,
+        "solidity": 0.9327797548438118,
+        "contour_regularity": 0.1675,
+        "edge_penalty": 0.0,
+        "confidence": 0.8
+      },
+      {
+        "id": 5,
+        "bbox": [
+          287,
+          521,
+          32,
+          33
+        ],
+        "center": [
+          303,
+          537
+        ],
+        "area_pixels": 724.5,
+        "perimeter": 101.98275470733643,
+        "aspect_ratio": 0.9696969696969697,
+        "circularity": 0.8753762839569934,
+        "extent": 0.6860795454545454,
+        "solidity": 0.9711796246648794,
+        "contour_regularity": 0.1,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 14,
+        "bbox": [
+          554,
+          334,
+          32,
+          34
+        ],
+        "center": [
+          570,
+          351
+        ],
+        "area_pixels": 710.0,
+        "perimeter": 107.05382263660431,
+        "aspect_ratio": 0.9411764705882353,
+        "circularity": 0.7785093873168413,
+        "extent": 0.6525735294117647,
+        "solidity": 0.9262883235485975,
+        "contour_regularity": 0.09,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 24,
+        "bbox": [
+          302,
+          91,
+          30,
+          32
+        ],
+        "center": [
+          317,
+          107
+        ],
+        "area_pixels": 650.5,
+        "perimeter": 97.15432810783386,
+        "aspect_ratio": 0.9375,
+        "circularity": 0.8660298464495852,
+        "extent": 0.6776041666666667,
+        "solidity": 0.9680059523809523,
+        "contour_regularity": 0.09142857142857143,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 25,
+        "bbox": [
+          403,
+          82,
+          34,
+          31
+        ],
+        "center": [
+          420,
+          97
+        ],
+        "area_pixels": 761.5,
+        "perimeter": 105.98275482654572,
+        "aspect_ratio": 1.096774193548387,
+        "circularity": 0.8519406946299128,
+        "extent": 0.7224857685009488,
+        "solidity": 0.9682136045772409,
+        "contour_regularity": 0.095,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 27,
+        "bbox": [
+          251,
+          20,
+          30,
+          29
+        ],
+        "center": [
+          266,
+          34
+        ],
+        "area_pixels": 593.5,
+        "perimeter": 93.15432751178741,
+        "aspect_ratio": 1.0344827586206897,
+        "circularity": 0.8594577208033268,
+        "extent": 0.6821839080459771,
+        "solidity": 0.968189233278956,
+        "contour_regularity": 0.07,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 21,
+        "bbox": [
+          108,
+          198,
+          52,
+          57
+        ],
+        "center": [
+          134,
+          226
+        ],
+        "area_pixels": 1292.5,
+        "perimeter": 197.46298325061798,
+        "aspect_ratio": 0.9122807017543859,
+        "circularity": 0.4165518117973927,
+        "extent": 0.43606612685560053,
+        "solidity": 0.8371113989637305,
+        "contour_regularity": 0.126,
+        "edge_penalty": 0.0,
+        "confidence": 0.7
+      },
+      {
+        "id": 2,
+        "bbox": [
+          64,
+          566,
+          24,
+          14
+        ],
+        "center": [
+          76,
+          573
+        ],
+        "area_pixels": 218.5,
+        "perimeter": 59.6984840631485,
+        "aspect_ratio": 1.7142857142857142,
+        "circularity": 0.7704326849171699,
+        "extent": 0.6502976190476191,
+        "solidity": 0.9625550660792952,
+        "contour_regularity": 0.037142857142857144,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 22,
+        "bbox": [
+          373,
+          153,
+          27,
+          26
+        ],
+        "center": [
+          386,
+          166
+        ],
+        "area_pixels": 473.5,
+        "perimeter": 83.49747371673584,
+        "aspect_ratio": 1.0384615384615385,
+        "circularity": 0.8534600087636324,
+        "extent": 0.6745014245014245,
+        "solidity": 0.9594731509625126,
+        "contour_regularity": 0.06444444444444444,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 20,
+        "bbox": [
+          98,
+          256,
+          21,
+          24
+        ],
+        "center": [
+          108,
+          268
+        ],
+        "area_pixels": 300.5,
+        "perimeter": 69.84061968326569,
+        "aspect_ratio": 0.875,
+        "circularity": 0.7741732696589834,
+        "extent": 0.5962301587301587,
+        "solidity": 0.9361370716510904,
+        "contour_regularity": 0.06222222222222222,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 10,
+        "bbox": [
+          312,
+          426,
+          34,
+          23
+        ],
+        "center": [
+          329,
+          437
+        ],
+        "area_pixels": 369.5,
+        "perimeter": 98.61017155647278,
+        "aspect_ratio": 1.4782608695652173,
+        "circularity": 0.4775082485203765,
+        "extent": 0.4725063938618926,
+        "solidity": 0.7464646464646465,
+        "contour_regularity": 0.05454545454545454,
+        "edge_penalty": 0.0,
+        "confidence": 0.55
+      },
+      {
+        "id": 15,
+        "bbox": [
+          69,
+          329,
+          21,
+          33
+        ],
+        "center": [
+          79,
+          345
+        ],
+        "area_pixels": 372.0,
+        "perimeter": 103.19595742225647,
+        "aspect_ratio": 0.6363636363636364,
+        "circularity": 0.4389625141257324,
+        "extent": 0.5367965367965368,
+        "solidity": 0.7965738758029979,
+        "contour_regularity": 0.08222222222222221,
+        "edge_penalty": 0.0,
+        "confidence": 0.55
+      }
+    ],
+    "algorithm": "opencv_advanced",
+    "success": true,
+    "processing_time": 0.036444902420043945
+  },
+  {
+    "algorithm": "cnn_simple",
+    "image_path": "images/beloeil_z19_20250810_151735.jpg",
+    "pools": [
+      {
+        "bbox": [
+          200,
+          200,
+          400,
+          300
+        ],
+        "confidence": 1.0,
+        "type": "pool"
+      }
+    ],
+    "pools_detected": 1,
+    "confidence": 1.0,
+    "has_pool": true,
+    "processing_time": 4.731934070587158,
+    "success": true,
+    "raw_output": "=== Analyse de l'image: images/beloeil_z19_20250810_151735.jpg ===\nMod\u00e8le charg\u00e9 depuis pool_cnn_model.h5\nPiscine d\u00e9tect\u00e9e: Oui\nConfiance: 100.00%\nAppuyez sur une touche pour fermer la fen\u00eatre...\n"
+  },
+  {
+    "image_path": "images/levis_z19_20250810_151736.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 5,
+    "pools": [
+      {
+        "id": 0,
+        "bbox": [
+          197,
+          578,
+          28,
+          26
+        ],
+        "center": [
+          211,
+          591
+        ],
+        "area_pixels": 527.5,
+        "aspect_ratio": 1.0769230769230769,
+        "circularity": 0.8150337620967024,
+        "confidence": 1.0
+      },
+      {
+        "id": 2,
+        "bbox": [
+          90,
+          559,
+          30,
+          26
+        ],
+        "center": [
+          105,
+          572
+        ],
+        "area_pixels": 528.5,
+        "aspect_ratio": 1.1538461538461537,
+        "circularity": 0.6101977025006077,
+        "confidence": 1.0
+      },
+      {
+        "id": 9,
+        "bbox": [
+          470,
+          136,
+          30,
+          29
+        ],
+        "center": [
+          485,
+          150
+        ],
+        "area_pixels": 574.0,
+        "aspect_ratio": 1.0344827586206897,
+        "circularity": 0.775764312983747,
+        "confidence": 1.0
+      },
+      {
+        "id": 10,
+        "bbox": [
+          261,
+          130,
+          45,
+          32
+        ],
+        "center": [
+          283,
+          146
+        ],
+        "area_pixels": 963.0,
+        "aspect_ratio": 1.40625,
+        "circularity": 0.6534716333015902,
+        "confidence": 1.0
+      },
+      {
+        "id": 4,
+        "bbox": [
+          624,
+          458,
+          16,
+          20
+        ],
+        "center": [
+          632,
+          468
+        ],
+        "area_pixels": 143.5,
+        "aspect_ratio": 0.8,
+        "circularity": 0.5352819090037491,
+        "confidence": 0.8
+      }
+    ],
+    "algorithm": "opencv_hsv",
+    "success": true,
+    "processing_time": 0.006676673889160156
+  },
+  {
+    "image_path": "images/levis_z19_20250810_151736.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 4,
+    "pools": [
+      {
+        "id": 5,
+        "bbox": [
+          261,
+          130,
+          47,
+          33
+        ],
+        "center": [
+          284,
+          146
+        ],
+        "area_pixels": 1089.0,
+        "perimeter": 136.22539579868317,
+        "aspect_ratio": 1.4242424242424243,
+        "circularity": 0.737431333676065,
+        "extent": 0.7021276595744681,
+        "solidity": 0.9189873417721519,
+        "contour_regularity": 0.0825,
+        "edge_penalty": 0.0,
+        "confidence": 0.8
+      },
+      {
+        "id": 0,
+        "bbox": [
+          196,
+          576,
+          32,
+          31
+        ],
+        "center": [
+          212,
+          591
+        ],
+        "area_pixels": 664.5,
+        "perimeter": 99.98275446891785,
+        "aspect_ratio": 1.032258064516129,
+        "circularity": 0.8353234143990852,
+        "extent": 0.6698588709677419,
+        "solidity": 0.9602601156069365,
+        "contour_regularity": 0.12,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 1,
+        "bbox": [
+          90,
+          560,
+          30,
+          28
+        ],
+        "center": [
+          105,
+          574
+        ],
+        "area_pixels": 592.0,
+        "perimeter": 98.56854116916656,
+        "aspect_ratio": 1.0714285714285714,
+        "circularity": 0.76569341613838,
+        "extent": 0.7047619047619048,
+        "solidity": 0.9235569422776911,
+        "contour_regularity": 0.07111111111111111,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 4,
+        "bbox": [
+          469,
+          135,
+          33,
+          31
+        ],
+        "center": [
+          485,
+          150
+        ],
+        "area_pixels": 728.5,
+        "perimeter": 101.15432846546173,
+        "aspect_ratio": 1.064516129032258,
+        "circularity": 0.8946856621501137,
+        "extent": 0.7121212121212122,
+        "solidity": 0.9791666666666666,
+        "contour_regularity": 0.095,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      }
+    ],
+    "algorithm": "opencv_advanced",
+    "success": true,
+    "processing_time": 0.03650093078613281
+  },
+  {
+    "algorithm": "cnn_simple",
+    "image_path": "images/levis_z19_20250810_151736.jpg",
+    "pools": [
+      {
+        "bbox": [
+          200,
+          200,
+          400,
+          300
+        ],
+        "confidence": 0.8513,
+        "type": "pool"
+      }
+    ],
+    "pools_detected": 1,
+    "confidence": 0.8513,
+    "has_pool": true,
+    "processing_time": 5.125118255615234,
+    "success": true,
+    "raw_output": "=== Analyse de l'image: images/levis_z19_20250810_151736.jpg ===\nMod\u00e8le charg\u00e9 depuis pool_cnn_model.h5\nPiscine d\u00e9tect\u00e9e: Oui\nConfiance: 85.13%\nAppuyez sur une touche pour fermer la fen\u00eatre...\n"
+  },
+  {
+    "image_path": "images/sthilairerandom_z19_20250810_151735.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 4,
+    "pools": [
+      {
+        "id": 0,
+        "bbox": [
+          333,
+          551,
+          39,
+          36
+        ],
+        "center": [
+          352,
+          569
+        ],
+        "area_pixels": 569.5,
+        "aspect_ratio": 1.0833333333333333,
+        "circularity": 0.3298518728406729,
+        "confidence": 1.0
+      },
+      {
+        "id": 3,
+        "bbox": [
+          511,
+          436,
+          38,
+          34
+        ],
+        "center": [
+          530,
+          453
+        ],
+        "area_pixels": 702.0,
+        "aspect_ratio": 1.1176470588235294,
+        "circularity": 0.6569209870436449,
+        "confidence": 1.0
+      },
+      {
+        "id": 2,
+        "bbox": [
+          322,
+          528,
+          26,
+          26
+        ],
+        "center": [
+          335,
+          541
+        ],
+        "area_pixels": 449.5,
+        "aspect_ratio": 1.0,
+        "circularity": 0.5238476714082299,
+        "confidence": 0.8
+      },
+      {
+        "id": 4,
+        "bbox": [
+          465,
+          319,
+          61,
+          56
+        ],
+        "center": [
+          495,
+          347
+        ],
+        "area_pixels": 1146.0,
+        "aspect_ratio": 1.0892857142857142,
+        "circularity": 0.28118500133466084,
+        "confidence": 0.7999999999999999
+      }
+    ],
+    "algorithm": "opencv_hsv",
+    "success": true,
+    "processing_time": 0.007056236267089844
+  },
+  {
+    "image_path": "images/sthilairerandom_z19_20250810_151735.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 2,
+    "pools": [
+      {
+        "id": 7,
+        "bbox": [
+          509,
+          436,
+          40,
+          35
+        ],
+        "center": [
+          529,
+          453
+        ],
+        "area_pixels": 811.5,
+        "perimeter": 114.95331954956055,
+        "aspect_ratio": 1.1428571428571428,
+        "circularity": 0.7717121786409726,
+        "extent": 0.5796428571428571,
+        "solidity": 0.9403244495944381,
+        "contour_regularity": 0.04888888888888889,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 11,
+        "bbox": [
+          197,
+          322,
+          30,
+          19
+        ],
+        "center": [
+          212,
+          331
+        ],
+        "area_pixels": 220.5,
+        "perimeter": 81.63960909843445,
+        "aspect_ratio": 1.5789473684210527,
+        "circularity": 0.41573503457124583,
+        "extent": 0.3868421052631579,
+        "solidity": 0.765625,
+        "contour_regularity": 0.09666666666666666,
+        "edge_penalty": 0.0,
+        "confidence": 0.45000000000000007
+      }
+    ],
+    "algorithm": "opencv_advanced",
+    "success": true,
+    "processing_time": 0.0353541374206543
+  },
+  {
+    "algorithm": "cnn_simple",
+    "image_path": "images/sthilairerandom_z19_20250810_151735.jpg",
+    "pools": [
+      {
+        "bbox": [
+          200,
+          200,
+          400,
+          300
+        ],
+        "confidence": 1.0,
+        "type": "pool"
+      }
+    ],
+    "pools_detected": 1,
+    "confidence": 1.0,
+    "has_pool": true,
+    "processing_time": 5.192261219024658,
+    "success": true,
+    "raw_output": "=== Analyse de l'image: images/sthilairerandom_z19_20250810_151735.jpg ===\nMod\u00e8le charg\u00e9 depuis pool_cnn_model.h5\nPiscine d\u00e9tect\u00e9e: Oui\nConfiance: 100.00%\nAppuyez sur une touche pour fermer la fen\u00eatre...\n"
+  },
+  {
+    "image_path": "images/bousquet_z19_20250810_151734.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 11,
+    "pools": [
+      {
+        "id": 1,
+        "bbox": [
+          217,
+          535,
+          29,
+          28
+        ],
+        "center": [
+          231,
+          549
+        ],
+        "area_pixels": 533.0,
+        "aspect_ratio": 1.0357142857142858,
+        "circularity": 0.6962212685742799,
+        "confidence": 1.0
+      },
+      {
+        "id": 7,
+        "bbox": [
+          81,
+          345,
+          37,
+          22
+        ],
+        "center": [
+          99,
+          356
+        ],
+        "area_pixels": 585.0,
+        "aspect_ratio": 1.6818181818181819,
+        "circularity": 0.6292871404245957,
+        "confidence": 1.0
+      },
+      {
+        "id": 15,
+        "bbox": [
+          452,
+          153,
+          30,
+          32
+        ],
+        "center": [
+          467,
+          169
+        ],
+        "area_pixels": 610.0,
+        "aspect_ratio": 0.9375,
+        "circularity": 0.7075838694256984,
+        "confidence": 1.0
+      },
+      {
+        "id": 17,
+        "bbox": [
+          87,
+          137,
+          33,
+          32
+        ],
+        "center": [
+          103,
+          153
+        ],
+        "area_pixels": 712.0,
+        "aspect_ratio": 1.03125,
+        "circularity": 0.7060830416593292,
+        "confidence": 1.0
+      },
+      {
+        "id": 4,
+        "bbox": [
+          202,
+          442,
+          28,
+          24
+        ],
+        "center": [
+          216,
+          454
+        ],
+        "area_pixels": 431.0,
+        "aspect_ratio": 1.1666666666666667,
+        "circularity": 0.6227940212409168,
+        "confidence": 0.8
+      },
+      {
+        "id": 5,
+        "bbox": [
+          0,
+          411,
+          27,
+          18
+        ],
+        "center": [
+          13,
+          420
+        ],
+        "area_pixels": 267.0,
+        "aspect_ratio": 1.5,
+        "circularity": 0.581791099958573,
+        "confidence": 0.8
+      },
+      {
+        "id": 13,
+        "bbox": [
+          474,
+          229,
+          27,
+          28
+        ],
+        "center": [
+          487,
+          243
+        ],
+        "area_pixels": 499.5,
+        "aspect_ratio": 0.9642857142857143,
+        "circularity": 0.8134944177599717,
+        "confidence": 0.8
+      },
+      {
+        "id": 16,
+        "bbox": [
+          538,
+          142,
+          27,
+          28
+        ],
+        "center": [
+          551,
+          156
+        ],
+        "area_pixels": 445.5,
+        "aspect_ratio": 0.9642857142857143,
+        "circularity": 0.5750368910028613,
+        "confidence": 0.8
+      },
+      {
+        "id": 18,
+        "bbox": [
+          557,
+          19,
+          25,
+          26
+        ],
+        "center": [
+          569,
+          32
+        ],
+        "area_pixels": 456.5,
+        "aspect_ratio": 0.9615384615384616,
+        "circularity": 0.7319813589152528,
+        "confidence": 0.8
+      },
+      {
+        "id": 0,
+        "bbox": [
+          476,
+          616,
+          22,
+          9
+        ],
+        "center": [
+          487,
+          620
+        ],
+        "area_pixels": 122.5,
+        "aspect_ratio": 2.4444444444444446,
+        "circularity": 0.5609650064910323,
+        "confidence": 0.6000000000000001
+      },
+      {
+        "id": 8,
+        "bbox": [
+          136,
+          332,
+          38,
+          22
+        ],
+        "center": [
+          155,
+          343
+        ],
+        "area_pixels": 255.0,
+        "aspect_ratio": 1.7272727272727273,
+        "circularity": 0.20221857793504366,
+        "confidence": 0.6
+      }
+    ],
+    "algorithm": "opencv_hsv",
+    "success": true,
+    "processing_time": 0.005437135696411133
+  },
+  {
+    "image_path": "images/bousquet_z19_20250810_151734.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 13,
+    "pools": [
+      {
+        "id": 3,
+        "bbox": [
+          490,
+          534,
+          62,
+          63
+        ],
+        "center": [
+          521,
+          565
+        ],
+        "area_pixels": 2114.0,
+        "perimeter": 208.87719583511353,
+        "aspect_ratio": 0.9841269841269841,
+        "circularity": 0.6088815157177395,
+        "extent": 0.5412186379928315,
+        "solidity": 0.9223385689354275,
+        "contour_regularity": 0.24,
+        "edge_penalty": 0.0,
+        "confidence": 0.8
+      },
+      {
+        "id": 10,
+        "bbox": [
+          271,
+          385,
+          66,
+          66
+        ],
+        "center": [
+          304,
+          418
+        ],
+        "area_pixels": 2322.5,
+        "perimeter": 232.43354618549347,
+        "aspect_ratio": 1.0,
+        "circularity": 0.540216656055679,
+        "extent": 0.5331726354453628,
+        "solidity": 0.9187104430379747,
+        "contour_regularity": 0.2075,
+        "edge_penalty": 0.0,
+        "confidence": 0.8
+      },
+      {
+        "id": 4,
+        "bbox": [
+          218,
+          534,
+          32,
+          31
+        ],
+        "center": [
+          234,
+          549
+        ],
+        "area_pixels": 670.0,
+        "perimeter": 102.22539556026459,
+        "aspect_ratio": 1.032258064516129,
+        "circularity": 0.8056883190900511,
+        "extent": 0.6754032258064516,
+        "solidity": 0.9443269908386187,
+        "contour_regularity": 0.08199999999999999,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 8,
+        "bbox": [
+          200,
+          437,
+          36,
+          34
+        ],
+        "center": [
+          218,
+          454
+        ],
+        "area_pixels": 800.0,
+        "perimeter": 110.71067643165588,
+        "aspect_ratio": 1.0588235294117647,
+        "circularity": 0.8202020349780995,
+        "extent": 0.6535947712418301,
+        "solidity": 0.9592326139088729,
+        "contour_regularity": 0.1275,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 11,
+        "bbox": [
+          80,
+          344,
+          42,
+          26
+        ],
+        "center": [
+          101,
+          357
+        ],
+        "area_pixels": 823.0,
+        "perimeter": 118.91168689727783,
+        "aspect_ratio": 1.6153846153846154,
+        "circularity": 0.7314095371835021,
+        "extent": 0.7536630036630036,
+        "solidity": 0.9341657207718501,
+        "contour_regularity": 0.0825,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 15,
+        "bbox": [
+          472,
+          228,
+          31,
+          31
+        ],
+        "center": [
+          487,
+          243
+        ],
+        "area_pixels": 712.0,
+        "perimeter": 101.74011433124542,
+        "aspect_ratio": 1.0,
+        "circularity": 0.8643814038654631,
+        "extent": 0.740894901144641,
+        "solidity": 0.9766803840877915,
+        "contour_regularity": 0.1,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 17,
+        "bbox": [
+          452,
+          152,
+          33,
+          34
+        ],
+        "center": [
+          468,
+          169
+        ],
+        "area_pixels": 809.5,
+        "perimeter": 111.98275434970856,
+        "aspect_ratio": 0.9705882352941176,
+        "circularity": 0.8111934336829199,
+        "extent": 0.7214795008912656,
+        "solidity": 0.9545990566037735,
+        "contour_regularity": 0.11,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 20,
+        "bbox": [
+          93,
+          136,
+          38,
+          32
+        ],
+        "center": [
+          112,
+          152
+        ],
+        "area_pixels": 768.5,
+        "perimeter": 126.12489020824432,
+        "aspect_ratio": 1.1875,
+        "circularity": 0.6070886779613428,
+        "extent": 0.6319901315789473,
+        "solidity": 0.858659217877095,
+        "contour_regularity": 0.09777777777777778,
+        "edge_penalty": 0.0,
+        "confidence": 0.7000000000000001
+      },
+      {
+        "id": 2,
+        "bbox": [
+          172,
+          558,
+          37,
+          47
+        ],
+        "center": [
+          190,
+          581
+        ],
+        "area_pixels": 826.0,
+        "perimeter": 132.5096663236618,
+        "aspect_ratio": 0.7872340425531915,
+        "circularity": 0.5911460480929431,
+        "extent": 0.4749856239217941,
+        "solidity": 0.9037199124726477,
+        "contour_regularity": 0.16571428571428573,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 1,
+        "bbox": [
+          425,
+          558,
+          24,
+          23
+        ],
+        "center": [
+          437,
+          569
+        ],
+        "area_pixels": 263.0,
+        "perimeter": 71.74011385440826,
+        "aspect_ratio": 1.0434782608695652,
+        "circularity": 0.6421573966987145,
+        "extent": 0.47644927536231885,
+        "solidity": 0.8960817717206133,
+        "contour_regularity": 0.0775,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 18,
+        "bbox": [
+          545,
+          145,
+          23,
+          23
+        ],
+        "center": [
+          556,
+          156
+        ],
+        "area_pixels": 302.5,
+        "perimeter": 70.66904628276825,
+        "aspect_ratio": 1.0,
+        "circularity": 0.7611614458164935,
+        "extent": 0.5718336483931947,
+        "solidity": 0.933641975308642,
+        "contour_regularity": 0.06,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 22,
+        "bbox": [
+          560,
+          28,
+          24,
+          20
+        ],
+        "center": [
+          572,
+          38
+        ],
+        "area_pixels": 231.0,
+        "perimeter": 66.91168749332428,
+        "aspect_ratio": 1.2,
+        "circularity": 0.6483624852883598,
+        "extent": 0.48125,
+        "solidity": 0.8733459357277883,
+        "contour_regularity": 0.04888888888888889,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 14,
+        "bbox": [
+          539,
+          235,
+          23,
+          29
+        ],
+        "center": [
+          550,
+          249
+        ],
+        "area_pixels": 281.0,
+        "perimeter": 88.36753129959106,
+        "aspect_ratio": 0.7931034482758621,
+        "circularity": 0.45220018860062833,
+        "extent": 0.42128935532233885,
+        "solidity": 0.7751724137931034,
+        "contour_regularity": 0.04166666666666667,
+        "edge_penalty": 0.0,
+        "confidence": 0.55
+      }
+    ],
+    "algorithm": "opencv_advanced",
+    "success": true,
+    "processing_time": 0.04069685935974121
+  },
+  {
+    "algorithm": "cnn_simple",
+    "image_path": "images/bousquet_z19_20250810_151734.jpg",
+    "pools": [
+      {
+        "bbox": [
+          200,
+          200,
+          400,
+          300
+        ],
+        "confidence": 1.0,
+        "type": "pool"
+      }
+    ],
+    "pools_detected": 1,
+    "confidence": 1.0,
+    "has_pool": true,
+    "processing_time": 4.703234434127808,
+    "success": true,
+    "raw_output": "=== Analyse de l'image: images/bousquet_z19_20250810_151734.jpg ===\nMod\u00e8le charg\u00e9 depuis pool_cnn_model.h5\nPiscine d\u00e9tect\u00e9e: Oui\nConfiance: 100.00%\nAppuyez sur une touche pour fermer la fen\u00eatre...\n"
+  },
+  {
+    "image_path": "images/gilbertdionne_z19_20250810_151735.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 3,
+    "pools": [
+      {
+        "id": 2,
+        "bbox": [
+          471,
+          593,
+          23,
+          24
+        ],
+        "center": [
+          482,
+          605
+        ],
+        "area_pixels": 213.5,
+        "aspect_ratio": 0.9583333333333334,
+        "circularity": 0.336021243827086,
+        "confidence": 0.8
+      },
+      {
+        "id": 6,
+        "bbox": [
+          224,
+          258,
+          27,
+          15
+        ],
+        "center": [
+          237,
+          265
+        ],
+        "area_pixels": 120.0,
+        "aspect_ratio": 1.8,
+        "circularity": 0.2913645169114421,
+        "confidence": 0.6
+      },
+      {
+        "id": 7,
+        "bbox": [
+          357,
+          247,
+          18,
+          22
+        ],
+        "center": [
+          366,
+          258
+        ],
+        "area_pixels": 125.0,
+        "aspect_ratio": 0.8181818181818182,
+        "circularity": 0.21438423925036112,
+        "confidence": 0.6
+      }
+    ],
+    "algorithm": "opencv_hsv",
+    "success": true,
+    "processing_time": 0.008600234985351562
+  },
+  {
+    "image_path": "images/gilbertdionne_z19_20250810_151735.jpg",
+    "image_size": [
+      640,
+      640
+    ],
+    "pools_detected": 12,
+    "pools": [
+      {
+        "id": 11,
+        "bbox": [
+          209,
+          499,
+          62,
+          48
+        ],
+        "center": [
+          240,
+          523
+        ],
+        "area_pixels": 1307.0,
+        "perimeter": 199.56348955631256,
+        "aspect_ratio": 1.2916666666666667,
+        "circularity": 0.4124043835261228,
+        "extent": 0.43918010752688175,
+        "solidity": 0.8153462258265751,
+        "contour_regularity": 0.18666666666666668,
+        "edge_penalty": 0.0,
+        "confidence": 0.7
+      },
+      {
+        "id": 19,
+        "bbox": [
+          259,
+          445,
+          58,
+          60
+        ],
+        "center": [
+          288,
+          475
+        ],
+        "area_pixels": 1171.0,
+        "perimeter": 198.45079064369202,
+        "aspect_ratio": 0.9666666666666667,
+        "circularity": 0.37364664932365976,
+        "extent": 0.3364942528735632,
+        "solidity": 0.7039374812143072,
+        "contour_regularity": 0.2114285714285714,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 26,
+        "bbox": [
+          304,
+          412,
+          36,
+          46
+        ],
+        "center": [
+          322,
+          435
+        ],
+        "area_pixels": 863.5,
+        "perimeter": 133.92388033866882,
+        "aspect_ratio": 0.782608695652174,
+        "circularity": 0.6050010906737673,
+        "extent": 0.5214371980676329,
+        "solidity": 0.8838280450358239,
+        "contour_regularity": 0.10444444444444445,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 42,
+        "bbox": [
+          442,
+          277,
+          79,
+          94
+        ],
+        "center": [
+          481,
+          324
+        ],
+        "area_pixels": 2647.0,
+        "perimeter": 331.44573879241943,
+        "aspect_ratio": 0.8404255319148937,
+        "circularity": 0.30278818555796955,
+        "extent": 0.3564503097225963,
+        "solidity": 0.7197824609109449,
+        "contour_regularity": 0.2288888888888889,
+        "edge_penalty": 0.0,
+        "confidence": 0.65
+      },
+      {
+        "id": 28,
+        "bbox": [
+          340,
+          402,
+          16,
+          24
+        ],
+        "center": [
+          348,
+          414
+        ],
+        "area_pixels": 201.0,
+        "perimeter": 61.25483310222626,
+        "aspect_ratio": 0.6666666666666666,
+        "circularity": 0.6731706918577053,
+        "extent": 0.5234375,
+        "solidity": 0.919908466819222,
+        "contour_regularity": 0.036000000000000004,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 30,
+        "bbox": [
+          200,
+          394,
+          26,
+          15
+        ],
+        "center": [
+          213,
+          401
+        ],
+        "area_pixels": 212.5,
+        "perimeter": 65.0121921300888,
+        "aspect_ratio": 1.7333333333333334,
+        "circularity": 0.6317993548509877,
+        "extent": 0.5448717948717948,
+        "solidity": 0.9120171673819742,
+        "contour_regularity": 0.0625,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 40,
+        "bbox": [
+          135,
+          338,
+          45,
+          30
+        ],
+        "center": [
+          157,
+          353
+        ],
+        "area_pixels": 545.0,
+        "perimeter": 135.8233745098114,
+        "aspect_ratio": 1.5,
+        "circularity": 0.3712421967159229,
+        "extent": 0.40370370370370373,
+        "solidity": 0.7087126137841352,
+        "contour_regularity": 0.09777777777777778,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 46,
+        "bbox": [
+          219,
+          247,
+          42,
+          50
+        ],
+        "center": [
+          240,
+          272
+        ],
+        "area_pixels": 916.0,
+        "perimeter": 160.3086552619934,
+        "aspect_ratio": 0.84,
+        "circularity": 0.4479106569217602,
+        "extent": 0.4361904761904762,
+        "solidity": 0.7772592278319899,
+        "contour_regularity": 0.14,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 48,
+        "bbox": [
+          541,
+          242,
+          34,
+          21
+        ],
+        "center": [
+          558,
+          252
+        ],
+        "area_pixels": 335.5,
+        "perimeter": 85.1543276309967,
+        "aspect_ratio": 1.619047619047619,
+        "circularity": 0.5814186256623004,
+        "extent": 0.4698879551820728,
+        "solidity": 0.8946666666666667,
+        "contour_regularity": 0.08571428571428572,
+        "edge_penalty": 0.0,
+        "confidence": 0.6
+      },
+      {
+        "id": 34,
+        "bbox": [
+          110,
+          358,
+          29,
+          27
+        ],
+        "center": [
+          124,
+          371
+        ],
+        "area_pixels": 333.0,
+        "perimeter": 96.71067643165588,
+        "aspect_ratio": 1.0740740740740742,
+        "circularity": 0.44740955593977266,
+        "extent": 0.42528735632183906,
+        "solidity": 0.7699421965317919,
+        "contour_regularity": 0.05,
+        "edge_penalty": 0.0,
+        "confidence": 0.55
+      },
+      {
+        "id": 12,
+        "bbox": [
+          66,
+          499,
+          40,
+          43
+        ],
+        "center": [
+          86,
+          520
+        ],
+        "area_pixels": 568.0,
+        "perimeter": 135.96550989151,
+        "aspect_ratio": 0.9302325581395349,
+        "circularity": 0.386100788314229,
+        "extent": 0.3302325581395349,
+        "solidity": 0.7333763718528082,
+        "contour_regularity": 0.14857142857142858,
+        "edge_penalty": 0.0,
+        "confidence": 0.5
+      },
+      {
+        "id": 54,
+        "bbox": [
+          2,
+          188,
+          55,
+          52
+        ],
+        "center": [
+          29,
+          214
+        ],
+        "area_pixels": 1191.5,
+        "perimeter": 172.83556711673737,
+        "aspect_ratio": 1.0576923076923077,
+        "circularity": 0.501230710790092,
+        "extent": 0.4166083916083916,
+        "solidity": 0.82371240926374,
+        "contour_regularity": 0.125,
+        "edge_penalty": 0.3,
+        "confidence": 0.45
+      }
+    ],
+    "algorithm": "opencv_advanced",
+    "success": true,
+    "processing_time": 0.037584543228149414
+  },
+  {
+    "algorithm": "cnn_simple",
+    "image_path": "images/gilbertdionne_z19_20250810_151735.jpg",
+    "pools": [
+      {
+        "bbox": [
+          200,
+          200,
+          400,
+          300
+        ],
+        "confidence": 1.0,
+        "type": "pool"
+      }
+    ],
+    "pools_detected": 1,
+    "confidence": 1.0,
+    "has_pool": true,
+    "processing_time": 4.656296491622925,
+    "success": true,
+    "raw_output": "=== Analyse de l'image: images/gilbertdionne_z19_20250810_151735.jpg ===\nMod\u00e8le charg\u00e9 depuis pool_cnn_model.h5\nPiscine d\u00e9tect\u00e9e: Oui\nConfiance: 100.00%\nAppuyez sur une touche pour fermer la fen\u00eatre...\n"
+  }
+]

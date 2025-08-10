@@ -1,0 +1,25 @@
+{
+  "image": "satellite_45.55994802880481_-73.19360986021864_z19_20250810_144748.jpg",
+  "image_size": [
+    640,
+    640
+  ],
+  "pools": [
+    {
+      "id": 0,
+      "bbox": [
+        503,
+        429,
+        50,
+        46
+      ],
+      "center": [
+        528,
+        452
+      ],
+      "type": "residential"
+    }
+  ],
+  "annotated_by": "manual",
+  "total_pools": 1
+}

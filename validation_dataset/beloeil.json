@@ -1,0 +1,165 @@
+{
+  "image": "satellite_45.58319990832722_-73.20429801010346_z19_20250810_144748.jpg",
+  "image_size": [
+    640,
+    640
+  ],
+  "pools": [
+    {
+      "id": 0,
+      "bbox": [
+        248,
+        16,
+        33,
+        36
+      ],
+      "center": [
+        264,
+        34
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 1,
+      "bbox": [
+        300,
+        92,
+        31,
+        31
+      ],
+      "center": [
+        315,
+        107
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 2,
+      "bbox": [
+        401,
+        83,
+        36,
+        29
+      ],
+      "center": [
+        419,
+        97
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 3,
+      "bbox": [
+        369,
+        152,
+        33,
+        28
+      ],
+      "center": [
+        385,
+        166
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 4,
+      "bbox": [
+        422,
+        126,
+        33,
+        38
+      ],
+      "center": [
+        438,
+        145
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 5,
+      "bbox": [
+        548,
+        330,
+        44,
+        42
+      ],
+      "center": [
+        570,
+        351
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 6,
+      "bbox": [
+        610,
+        398,
+        27,
+        31
+      ],
+      "center": [
+        623,
+        413
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 7,
+      "bbox": [
+        284,
+        517,
+        39,
+        40
+      ],
+      "center": [
+        303,
+        537
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 8,
+      "bbox": [
+        85,
+        255,
+        42,
+        31
+      ],
+      "center": [
+        106,
+        270
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 9,
+      "bbox": [
+        53,
+        330,
+        39,
+        31
+      ],
+      "center": [
+        72,
+        345
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 10,
+      "bbox": [
+        1,
+        290,
+        33,
+        43
+      ],
+      "center": [
+        17,
+        311
+      ],
+      "type": "residential"
+    }
+  ],
+  "annotated_by": "manual",
+  "total_pools": 11
+}

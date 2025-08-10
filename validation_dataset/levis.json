@@ -1,0 +1,95 @@
+{
+  "image": "satellite_46.71361046403241_-71.20549487091733_z19_20250810_144749.jpg",
+  "image_size": [
+    640,
+    640
+  ],
+  "pools": [
+    {
+      "id": 0,
+      "bbox": [
+        247,
+        117,
+        75,
+        44
+      ],
+      "center": [
+        284,
+        139
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 1,
+      "bbox": [
+        466,
+        130,
+        39,
+        45
+      ],
+      "center": [
+        485,
+        152
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 2,
+      "bbox": [
+        559,
+        480,
+        28,
+        25
+      ],
+      "center": [
+        573,
+        492
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 3,
+      "bbox": [
+        621,
+        455,
+        20,
+        29
+      ],
+      "center": [
+        631,
+        469
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 4,
+      "bbox": [
+        194,
+        571,
+        37,
+        35
+      ],
+      "center": [
+        212,
+        588
+      ],
+      "type": "residential"
+    },
+    {
+      "id": 5,
+      "bbox": [
+        82,
+        543,
+        44,
+        51
+      ],
+      "center": [
+        104,
+        568
+      ],
+      "type": "residential"
+    }
+  ],
+  "annotated_by": "manual",
+  "total_pools": 6
+}
