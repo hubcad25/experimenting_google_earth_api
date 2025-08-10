@@ -69,14 +69,20 @@ The system has been tested on 6 residential areas:
 
 ## Development Notes
 
+### Python Environment Setup
+- **IMPORTANT**: Use `pyenv` to manage Python versions before running any Python commands
+- Each algorithm has its own virtual environment to prevent dependency conflicts
+- The main testing framework runs in the global/pyenv environment
+- Individual algorithms execute in their isolated venvs via the testing framework
+
 ### API Configuration
 - Google Maps API key required in `.env` file as `GOOGLE_API_KEY`
 - Images fetched at zoom level 19 for optimal pool detection
 - 640x640 pixel resolution (Google's free tier limit)
 
 ### Algorithm Testing
-- Each algorithm runs in isolated virtual environment
-- Automated testing via `test_all_algorithms.py`
+- Each algorithm runs in isolated virtual environment (created by their setup.sh)
+- Main testing framework (`test_all_algorithms.py`) orchestrates all algorithms
 - Results saved with timestamps in JSON format
 - Visual outputs saved for successful detections
 
@@ -96,19 +102,27 @@ The system has been tested on 6 residential areas:
 
 ### Setup
 ```bash
+# First ensure proper Python environment
+pyenv install 3.11.0  # or desired Python version
+pyenv local 3.11.0
+
+# Setup individual algorithm environments
 cd code/algorithms/opencv_hsv && ./setup.sh    # Setup HSV algorithm
 cd code/algorithms/opencv_advanced && ./setup.sh  # Setup advanced OpenCV
 ```
 
 ### Testing
 ```bash
-python code/test_all_algorithms.py             # Run all algorithm tests
-python code/validation/validation_evaluator.py  # Calculate validation metrics
+# Ensure pyenv is active first
+pyenv local 3.11.0
+
+python3 code/test_all_algorithms.py             # Run all algorithm tests
+python3 code/validation/validation_evaluator.py  # Calculate validation metrics
 ```
 
 ### Annotation
 ```bash
-cd annotation_tool && python pool_annotator.py  # Annotate all images
+cd annotation_tool && python3 pool_annotator.py  # Annotate all images
 ```
 
 ### Dashboard

@@ -1,0 +1,86 @@
+[
+  {
+    "algorithm": "opencv_hsv",
+    "image": "images/chapleau_z19_20250810_151734.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.0016415119171142578,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_advanced",
+    "image": "images/chapleau_z19_20250810_151734.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.0019488334655761719,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_hsv",
+    "image": "images/beloeil_z19_20250810_151735.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00018978118896484375,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_advanced",
+    "image": "images/beloeil_z19_20250810_151735.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.0001583099365234375,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_hsv",
+    "image": "images/levis_z19_20250810_151736.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00016069412231445312,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_advanced",
+    "image": "images/levis_z19_20250810_151736.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.0001468658447265625,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_hsv",
+    "image": "images/sthilairerandom_z19_20250810_151735.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00014781951904296875,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_advanced",
+    "image": "images/sthilairerandom_z19_20250810_151735.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00014519691467285156,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_hsv",
+    "image": "images/bousquet_z19_20250810_151734.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00015807151794433594,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_advanced",
+    "image": "images/bousquet_z19_20250810_151734.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00014519691467285156,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_hsv",
+    "image": "images/gilbertdionne_z19_20250810_151735.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00014853477478027344,
+    "status": "error"
+  },
+  {
+    "algorithm": "opencv_advanced",
+    "image": "images/gilbertdionne_z19_20250810_151735.jpg",
+    "error": "No module named 'cv2'",
+    "processing_time": 0.00014257431030273438,
+    "status": "error"
+  }
+]
